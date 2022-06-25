@@ -19,6 +19,7 @@ numpy==1.22.3
 Pillow==9.1.0
 promise==2.3
 python-dateutil==2.8.2
+python-dotenv==0.20.0
 Rx==1.6.1
 s3transfer==0.6.0
 singledispatch==3.7.0
